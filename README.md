@@ -14,6 +14,7 @@ https://dex-cryptodevs.vercel.app/
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
+- Web3Modal (Connect users with Dapp)
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
